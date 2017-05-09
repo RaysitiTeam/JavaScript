@@ -1,0 +1,29 @@
+* {
+	margin: 0px;
+	padding: 0px;
+}
+
+body {
+	width: 400px;
+}
+
+div {
+	padding: 0.5em;
+}
+
+label {
+	font-weight: bold;
+}
+
+input[type="text"] {
+	padding: 0.5em;
+	border-radius: 5px;
+}
+
+p {
+	color: #000000;
+	background-color: #FFA500;
+	padding: 1em;
+	margin-left: 1em;
+	visibility: hidden;
+}
